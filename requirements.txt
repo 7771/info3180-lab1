@@ -2,7 +2,12 @@
 # Flask
 # ----------------------
 flask
-
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
+psycopg2
+pylint-flask
 # ----------------------
 # Production Server
 # ----------------------
